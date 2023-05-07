@@ -1,0 +1,23 @@
+{
+  "name": "test-google-play-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omardiaa/test-google-play-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omardiaa/test-google-play-scraper/issues"
+  },
+  "homepage": "https://github.com/omardiaa/test-google-play-scraper#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "google-play-scraper": "^9.1.1"
+  }
+}
